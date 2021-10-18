@@ -1,0 +1,2 @@
+data/file1_3.txt: ['data/file1_0.txt', 'data/file1_1.txt']
+data/file2_0.txt: ['data/file2_2.txt']
